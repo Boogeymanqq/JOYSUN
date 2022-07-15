@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Clarence Two";
+  src: url("/fonts/ClarenceTwo-Regular.woff2") format("woff2"),
+    url("/fonts/ClarenceTwo-Regular.woff") format("woff"),
+    url("/fonts/ClarenceTwo-Regular.ttf") format("truetype"),
+    url("/fonts/ClarenceTwo-Regular.eot") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  unicode-range: U+0020-2044;
+}
